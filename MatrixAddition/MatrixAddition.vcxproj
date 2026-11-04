@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{2853DDE1-3689-4EE7-5812-01CE68E8CEFB}</ProjectGuid>
-    <RootNamespace>CudaLearning</RootNamespace>
+    <ProjectGuid>{923CF7B6-5F7C-B896-AB21-D3BFBEFA0827}</ProjectGuid>
+    <RootNamespace>MatrixAddition</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
