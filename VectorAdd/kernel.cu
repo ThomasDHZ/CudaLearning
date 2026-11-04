@@ -1,6 +1,10 @@
 ﻿#include <iostream>
 #include <cmath>
 
+//## Sources
+//- Vector add based on NVIDIA CUDA samples and common tutorials.
+//https://www.youtube.com/watch?v=k24z0067lv4&list=PLVVBQldz3m5v1VDhlCyB1DhPfjREsJWmf&index=10
+
 __global__ void VectorAdd(const float* a, const float* b, float* c, int n)
 {
 	int i = blockDim.x * blockIdx.x + threadIdx.x;

@@ -2,6 +2,5 @@
   <Configurations>
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="CudaLearning/CudaLearning.vcxproj" />
   <Project Path="VectorAdd/VectorAdd.vcxproj" />
 </Solution>
