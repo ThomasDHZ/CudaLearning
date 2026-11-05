@@ -4,5 +4,6 @@
   </Configurations>
   <Project Path="MatrixAddition/MatrixAddition.vcxproj" />
   <Project Path="MatrixVectorMultiplication/MatrixVectorMultiplication.vcxproj" />
+  <Project Path="SharedMemoryAndMemoryCoalescing/SharedMemoryAndMemoryCoalescing.vcxproj" />
   <Project Path="VectorAdd/VectorAdd.vcxproj" />
 </Solution>
