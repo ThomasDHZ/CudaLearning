@@ -3,7 +3,9 @@
     <Platform Name="x64" />
   </Configurations>
   <Project Path="MatrixAddition/MatrixAddition.vcxproj" />
+  <Project Path="MatrixTranspose/MatrixTranspose.vcxproj" />
   <Project Path="MatrixVectorMultiplication/MatrixVectorMultiplication.vcxproj" />
+  <Project Path="NeuralNetwork/NeuralNetwork.vcxproj" />
   <Project Path="SharedMemoryAndMemoryCoalescing/SharedMemoryAndMemoryCoalescing.vcxproj" />
   <Project Path="VectorAdd/VectorAdd.vcxproj" />
 </Solution>
